@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: noelnuel44@gmail.com
+- 😄 Pronouns: he/his/him
+- 💬 Ask me about software development, clean architecture and Computer Science
+- ⚡ Fun fact: I love to cook
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botchway44&layout=compact)](https://github.com/botchway44/github-readme-stats)
 
