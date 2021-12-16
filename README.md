@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 📫 How to reach me: noelnuel44@gmail.com
+I am a Software Engineer working productively in dynamic environments. Fluent in Java, Javascript and Typescript programming languages. My greatest assets are organization, communication, and the ability to learn quickly.
 - 😄 Pronouns: he/his/him
+- 🔭 I’m currently working on [(Nana Adwoa Conversational AI)](https://github.com/botchway44/covid-vaccine-appointment)
+- 🌱 I’m currently learning Technical Product Management.
 - 💬 Ask me about software engineering, conversational ai, clean architecture and Computer Science
+- 📫 How to reach me: noelnuel44@gmail.com
 - ⚡ Fun fact: I love cooking
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botchway44&layout=compact)](https://github.com/botchway44/github-readme-stats)
