@@ -4,7 +4,7 @@ I am a Software Engineer working productively in dynamic environments. Fluent in
 - 🔭 I’m currently working on [(Nana Adwoa Conversational AI)](https://github.com/botchway44/covid-vaccine-appointment)
 - 🌱 I’m currently learning Technical Product Management.
 - 💬 Ask me about software engineering, conversational ai, clean architecture and Computer Science
-- 📫 How to reach me: noelnuel44@gmail.com
+- 📫 How to reach me: noelnuel44@gmail.com and on [(Linkedin)](https://www.linkedin.com/in/emmanuelasamoahbotwe)
 - ⚡ Fun fact: I love cooking
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botchway44&layout=compact)](https://github.com/botchway44/github-readme-stats)
