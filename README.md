@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botchway44&layout=compact)](https://github.com/botchway44/github-readme-stats)
 
 ### Hi there 👋
 I am a Software Engineer working productively in dynamic environments. Fluent in Java, Javascript and Typescript programming languages. My greatest assets are organization, communication, and the ability to learn quickly.
@@ -12,6 +11,7 @@ I am a Software Engineer working productively in dynamic environments. Fluent in
 - 🌱 I’m currently learning Technical Product Management.
 
 **botchway44/botchway44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botchway44&layout=compact)](https://github.com/botchway44/github-readme-stats)
 
 Here are some ideas to get you started:
 
